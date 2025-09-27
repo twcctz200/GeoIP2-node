@@ -70,6 +70,6 @@
   },
   "dependencies": {
     "ip6addr": "^0.2.5",
-    "maxmind": "^4.2.0"
+    "maxmind": "^4.3.29"
   }
 }
